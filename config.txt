@@ -1,0 +1,6 @@
+owner=537748210773655573
+prefix=K-
+game=oKrz | K-help 
+stayinchannel=true
+songinstatus=false
+token=NTU2NTY5ODA2Njk5MTAyMjY4.D27psw.ddI4OdOWKXLHIZxW-SBnM6x5u0o
